@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidX LifeActivity</string>
+    <string name="hello_blank_fragment">Hello Lifecycle Fragment</string>
+    <string name="Button">Button</string>
+</resources>
